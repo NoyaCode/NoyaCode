@@ -2,4 +2,4 @@
 
 ## Hi there! :dizzy:
 ### I'm a Game Developer currently studying Game Programming at [ISART Digital](https://www.isart.com) Paris.
-### For more information, I recommend taking a look at my [portfolio](https://noyacode.github.io/#/).
+### For more information, I recommend taking a look at my [portfolio](https://noyacode.github.io/#/) or my [itch.io](https://noyacode.itch.io).
